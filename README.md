@@ -221,7 +221,7 @@ All outputs are saved to the `output/` directory automatically.
 
 ## 👤 Author
 
-**Nagaraju / Venkatesh Addanki**  
+**Venkatesh Addanki**  
 KLH University — CSE Department  
 📧 [venkateshaddanki287-eng](https://github.com/venkateshaddanki287-eng)
 
